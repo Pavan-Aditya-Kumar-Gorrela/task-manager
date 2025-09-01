@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Complete project report",
+    "description": "Finish writing documentation for task manager app",
+    "status": "pending"
+  },
+  {
+    "title": "Buy groceries",
+    "description": "Milk, Eggs, Bread",
+    "status": "pending"
+  },
+  {
+    "title": "Workout",
+    "description": "Go for 5km run",
+    "status": "completed"
+  }
+]

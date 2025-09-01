@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Complete project report (Updated)",
+    "description": "Finish docs and upload to GitHub",
+    "status": "pending"
+  },
+  {
+    "title": "Buy groceries",
+    "description": "Milk, Eggs, Bread, and Butter",
+    "status": "completed"
+  }
+]
